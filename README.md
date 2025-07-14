@@ -2,7 +2,13 @@
 ![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)
 
 ## Disclaimer
-This fork is intended for my personal use. You're free to use this fork, but please be aware I'm not willing to add specific features that don't fit my needs.
+
+This fork is **deprecated** and no longer maintained.
+
+**No support will be provided.**
+
+
+Please use the new fork instead: [https://github.com/Manu098vm/ManuBot.NET](https://github.com/Manu098vm/ManuBot.NET)
 
 ## Support Discords:
 
